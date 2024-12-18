@@ -9,23 +9,7 @@ dist
 *.rar
 *.npy
 *.npz
-*.png
 *.jpg
 *.whl
 *.txt
 
-*/wandb/*
-.vscode
-output
-build
-<<<<<<< HEAD
-submodules
-=======
-diff_rasterization/diff_rast.egg-info
-diff_rasterization/dist
->>>>>>> c329a93 (First commit)
-tensorboard_3d
-screenshots
-data/
-data
-submodules/
