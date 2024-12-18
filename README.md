@@ -1,7 +1,9 @@
 ## mfn_CUDA
 This repository corresponds to a CUDA implementation of a single layer multiplicative filter network.
-
-![](./media/pipeline.png)
+<p align="center">
+  <img src="./media/pipeline.png" alt="Pipeline">
+</p>
+<!--![](./media/pipeline.png) -->
 
 ## Installation
 Any pytorch version should work fine, but we recommend from personal experience
