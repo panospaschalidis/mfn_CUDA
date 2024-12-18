@@ -14,7 +14,9 @@ python setup.py install
 and you are ready to go.
 
 In terms of performance we provide the following table, for evalution 
-of **forward**, **backward** and **jacobian** computation compared to automatic differentiation.
+of **forward**, **backward** and **jacobian** computation compared to automatic differentiation, as 
+prompted from running testing_mfn_CUDA.py for the provided data.pth.
+
 For both pipelines we utilize a single RTX-3090 for a batch size of 38890 **2D** points, that were 
 positionally encoded before entering the network.
 Implementation|Forward Pass|Backward Pass|Jacobian Estimation|
