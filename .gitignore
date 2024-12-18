@@ -4,7 +4,6 @@ dist
 *.egg-info
 *.so
 *.swp
-*.pth
 *.pt
 *.zip
 *.rar
